@@ -12,7 +12,7 @@ random_number = random.randint(1, 26)
 inky_display=InkyWHAT("red")
 inky_display.set_border(inky_display.BLACK)
 
-
+# Creating image path with the use of random numbers
 directory = "Cards"
 random_file = str(random_number) + ".png"
 img_path = os.path.join(directory, random_file)
