@@ -11,4 +11,4 @@ Generate random morse code cards for learning on Inky wHat display using raspber
 ```python clean.py --type what --colour red```
 change color to yellow if using inkyWhat yellow display
 7) Run the randomMorseImage.py script
-python randomMorseImage.py
+```python randomMorseImage.py```
