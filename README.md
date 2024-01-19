@@ -9,6 +9,6 @@ curl https://get.pimoroni.com/inky | bash
 git clone https://github.com/Preetambeeravelli/Inky-wHat-Morse-Cards.git
 5) Clean and reset using the clean.py script
 python clean.py --type what --colour red
-# change color to yellow if using inkyWhat yellow display
+change color to yellow if using inkyWhat yellow display
 7) Run the randomMorseImage.py script
 python randomMorseImage.py
