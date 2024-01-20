@@ -20,3 +20,5 @@ change color to yellow if using inkyWhat yellow display
 9) After edit it should look like this
    ```*/5 * * * * /usr/bin/python /home/.../Inky-wHat-Morse-Cards/randomMorseImageAutomated.py```
 Note: Alphabet cards are from Google (Hello Morse) with background colour changed, Number cards are created by myself.
+![IMG_9146](https://github.com/Preetambeeravelli/Inky-wHat-Morse-Cards/assets/106784246/7b65e00a-d785-4f1f-999b-1c18a6b70011)
+![IMG_9145](https://github.com/Preetambeeravelli/Inky-wHat-Morse-Cards/assets/106784246/a612cac5-94ef-4d5f-8562-24b745aa207e)
