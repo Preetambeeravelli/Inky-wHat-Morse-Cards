@@ -18,4 +18,4 @@ change color to yellow if using inkyWhat yellow display
 9) Edit the file so that it looks like this (This means the script runs every 5 minutes)
    ```*/5 * * * * /path/to/python /path/to/your/script.py```
    After edit this looks like this
-   ```*/5 * * * * /usr/bin/python /home/.../RandomMorse/randomMorseImageAutomated.py```
+   ```*/5 * * * * /usr/bin/python /home/.../Inky-wHat-Morse-Cards/randomMorseImageAutomated.py```
