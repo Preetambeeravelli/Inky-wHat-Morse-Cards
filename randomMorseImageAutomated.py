@@ -12,10 +12,10 @@ random_number = random.randint(1, 26)
 inky_display=InkyWHAT("red")
 inky_display.set_border(inky_display.BLACK)
 
+#change this so that it matches the Cards directory in the project cloned
+directory = "/home/.../RandomMorse/Cards/"
 
-directory = "/home/preetam/RandomMorse/Cards/"
 random_file = str(random_number) + ".png"
-#img_path = os.path.join(directory, random_file)
 img_path = directory + random_file
 
 # Open our image file from path created
