@@ -5,8 +5,8 @@ from PIL import Image
 from inky import InkyWHAT
 import random
 
-# Generate a random number between 1 and 26 (inclusive)
-random_number = random.randint(1, 26)
+# Generate a random number between 1 and 36 (inclusive)
+random_number = random.randint(1, 36)
 
 # Set up the inky wHAT display and border colour
 inky_display=InkyWHAT("red")
