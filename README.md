@@ -10,7 +10,7 @@ Generate random morse code cards for learning on Inky wHat display using raspber
 5) Clean and reset using the clean.py script
 ```python clean.py --type what --colour red```
 change color to yellow if using inkyWhat yellow display
-7) Run the randomMorseImage.py script
+7) Run the randomMorseImage.py script (This script executes successfully only when you run it from project root directory)
 ```python randomMorseImage.py```
 8) I have used crontab -e to run the script in intervals, if you want to use it use randomMorseImageAutomated.py
    in your home directory type
