@@ -2,7 +2,7 @@
 Generate random morse code cards for learning on Inky wHat display using raspberrypi
 
 1) Install raspberry pi os with ssh enabled
-2) SSH into the pi and turn on I2C and SPI
+2) SSH into the pi and turn on I2C and SPI using ```sudo raspi-config```
 3) Install all the necessary libraries using the following link
 ```curl https://get.pimoroni.com/inky | bash```
 4) Clone my project and CD into the project
